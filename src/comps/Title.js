@@ -3,12 +3,9 @@ import React from "react";
 const Title = () => {
   return (
     <div className="title">
-      <h1>FOR A QT</h1>
-      <h2>JustMine</h2>
-      <p>
-        Hey babygirl, if you ever lose any of your picture you will find it
-        here.
-      </p>
+      <h1>ichaGram</h1>
+      <h2>Image Upload</h2>
+      <p>Click to the plus button to upload an image.</p>
     </div>
   );
 };
